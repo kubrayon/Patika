@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.exe
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.deps.json
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.json
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.dll
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\ref\TypeConversion.dll
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.pdb
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfo.cs
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.dll
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\ref\TypeConversion.dll
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.pdb
+C:\Users\pc\Desktop\Patika\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.genruntimeconfig.cache
