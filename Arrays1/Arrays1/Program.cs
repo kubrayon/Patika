@@ -10,7 +10,7 @@ namespace Arrays1
             // Dizi Tanımlama
 
             int[] numbers = new int[10]; //10 elemanlı int tipinde değerler tutabilecek bir dizi  
-            string[] colors = new string[4]; //4 elamanlı mevsilmleri tutabilecek string tipinde bir dizi 
+            string[] colors = new string[4]; //4 elamanlı renkleri tutabilecek string tipinde bir dizi 
 
             //Klavyeden girilen değerleri diziye atama
             int[] n1 = new int[3];
