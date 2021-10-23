@@ -29,6 +29,7 @@ namespace Arrays1
                 Console.Write((i + 1) + " . sınav notunu gir : ");
                 notlar[i] = Convert.ToInt16(Console.ReadLine());
             }
+            //denemee..
 
         }
     }

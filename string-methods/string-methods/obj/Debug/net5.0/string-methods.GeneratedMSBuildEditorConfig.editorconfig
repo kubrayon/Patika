@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = string_methods
-build_property.ProjectDir = C:\Users\pc\Desktop\Patika\string-methods\string-methods\
+build_property.ProjectDir = C:\Users\pc\Source\Repos\kubrayon\Patika\string-methods\string-methods\
