@@ -1,0 +1,11 @@
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\bin\Debug\netcoreapp3.0\interfaces.exe
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\bin\Debug\netcoreapp3.0\interfaces.deps.json
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\bin\Debug\netcoreapp3.0\interfaces.runtimeconfig.json
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\bin\Debug\netcoreapp3.0\interfaces.runtimeconfig.dev.json
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\bin\Debug\netcoreapp3.0\interfaces.dll
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\bin\Debug\netcoreapp3.0\interfaces.pdb
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\obj\Debug\netcoreapp3.0\interfaces.csprojAssemblyReference.cache
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\obj\Debug\netcoreapp3.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\obj\Debug\netcoreapp3.0\interfaces.AssemblyInfo.cs
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\obj\Debug\netcoreapp3.0\interfaces.dll
+C:\Users\BAYRAMPC\Desktop\interfaces\interfaces\obj\Debug\netcoreapp3.0\interfaces.pdb
